@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1656788814 source:c:\users\elena.villani\desktop\leo\progetti\tsclicker\plugin.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"include/teamspeak/public_errors.h"
+	"include/teamspeak/public_errors_rare.h"
+	"include/teamspeak/public_definitions.h"
+	"include/teamspeak/public_rare_definitions.h"
+	"include/teamspeak/clientlib_publicdefinitions.h"
+	"include/ts3_functions.h"
+	"plugin.h"
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamspeak\public_errors.h
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamspeak\public_errors_rare.h
+
+1656786278 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamspeak\public_definitions.h
+	"../teamlog/logtypes.h"
+	<stdint.h>
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamlog\logtypes.h
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamspeak\public_rare_definitions.h
+	"public_definitions.h"
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\teamspeak\clientlib_publicdefinitions.h
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\ts3_functions.h
+	"teamspeak/clientlib_publicdefinitions.h"
+	"teamspeak/public_definitions.h"
+	"plugin_definitions.h"
+
+1560424900 c:\users\elena.villani\desktop\leo\progetti\tsclicker\include\plugin_definitions.h
+
+1656787743 c:\users\elena.villani\desktop\leo\progetti\tsclicker\plugin.h
+	<windows.h>
+	<unistd.h>
+
+1659231203 source:c:\users\leonf\documents\programmazione\c++\tsclicker\plugin.c
+	<Windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"include/teamspeak/public_errors.h"
+	"include/teamspeak/public_errors_rare.h"
+	"include/teamspeak/public_definitions.h"
+	"include/teamspeak/public_rare_definitions.h"
+	"include/teamspeak/clientlib_publicdefinitions.h"
+	"include/ts3_functions.h"
+	"plugin.h"
+	"stdlib.h"
+	"stdio.h"
+	"stdbool.h"
+	"windows.h"
+	"time.h"
+	"math.h"
+	"pthread.h"
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamspeak\public_errors.h
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamspeak\public_errors_rare.h
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamspeak\public_definitions.h
+	"../teamlog/logtypes.h"
+	<stdint.h>
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamlog\logtypes.h
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamspeak\public_rare_definitions.h
+	"public_definitions.h"
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\teamspeak\clientlib_publicdefinitions.h
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\ts3_functions.h
+	"teamspeak/clientlib_publicdefinitions.h"
+	"teamspeak/public_definitions.h"
+	"plugin_definitions.h"
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\include\plugin_definitions.h
+
+1659023561 c:\users\leonf\documents\programmazione\c++\tsclicker\plugin.h
+	<windows.h>
+	<unistd.h>
+
+1674412261 source:c:\users\leonf\programmazione\c++\tsclicker\plugin.c
+	<Windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"include/teamspeak/public_errors.h"
+	"include/teamspeak/public_errors_rare.h"
+	"include/teamspeak/public_definitions.h"
+	"include/teamspeak/public_rare_definitions.h"
+	"include/teamspeak/clientlib_publicdefinitions.h"
+	"include/ts3_functions.h"
+	"plugin.h"
+	"stdlib.h"
+	"stdio.h"
+	"stdbool.h"
+	"windows.h"
+	"time.h"
+	"math.h"
+	"pthread.h"
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamspeak\public_errors.h
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamspeak\public_errors_rare.h
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamspeak\public_definitions.h
+	"../teamlog/logtypes.h"
+	<stdint.h>
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamlog\logtypes.h
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamspeak\public_rare_definitions.h
+	"public_definitions.h"
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\teamspeak\clientlib_publicdefinitions.h
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\ts3_functions.h
+	"teamspeak/clientlib_publicdefinitions.h"
+	"teamspeak/public_definitions.h"
+	"plugin_definitions.h"
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\include\plugin_definitions.h
+
+1659019961 c:\users\leonf\programmazione\c++\tsclicker\plugin.h
+	<windows.h>
+	<unistd.h>
+
